@@ -1,0 +1,12 @@
+body {
+    background-color:white;
+    font-family: sans-serif;
+    align-content: center
+}
+
+.grid-container {
+    display: grid;
+    background-color: white;
+    grid-gap: 15px;
+    align-content: center;
+}
